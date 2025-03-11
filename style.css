@@ -11,3 +11,15 @@ body {
     font-family: verdana;
     font-size: 20px;
   }
+/*The updated part*/
+.container {
+            max-width: 600px;
+            margin: 20px auto;
+            padding: 20px;
+            text-align: center;
+        }
+        #result {
+            margin-top: 20px;
+            font-size: 1.2em;
+            color: #333;
+        }
